@@ -509,15 +509,15 @@ with tab_home:
         <div class="empathy">
           <div class="item">
             <div class="q">My fuel costs are killing me, but Ola surge pricing is even worse during rains.</div>
-            <div class="a">Anjali, IT corridor commuter</div>
+            <div class="a">Aadith Sukumar, IT corridor commuter</div>
           </div>
           <div class="item">
             <div class="q">I have an empty car going the same way every morning. Feels like such a waste.</div>
-            <div class="a">Vikram, Hinjewadi to Baner</div>
+            <div class="a">Niraj, Hinjewadi to Baner</div>
           </div>
           <div class="item">
             <div class="q">I would carpool, but I just don't trust riding with random strangers.</div>
-            <div class="a">Kushbu, Symbiosis student</div>
+            <div class="a">Sriya, Symbiosis student</div>
           </div>
         </div>
         """,
